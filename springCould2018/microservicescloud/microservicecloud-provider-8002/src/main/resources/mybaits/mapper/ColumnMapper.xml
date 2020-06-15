@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.springcloud.dao.ColumnDao">
+
+    <resultMap id="cl" type="com.springcloud.entities.Column">
+        <id column="id" property="id"></id>
+        <result column="id" property="id"></result>
+        <result column="column_order" property="columnOrder"></result>
+    </resultMap>
+
+    <select id="findById" resultType="com.springcloud.entities.Column" >
+        SELECT id,column_order from scos_portal_column where id=#{id} and dr = 0
+    </select>
+
+    <select id="findAll" resultMap="cl">
+        SELECT id,column_order from scos_portal_column where dr = 0 order by column_order
+    </select>
+
+    <insert id="addDept" parameterType="com.springcloud.entities.Column">
+        insert into scos_portal_column(id,column_order) values (#{id},#{columnOrder})
+    </insert>
+
+    <update id="update">
+    update scos_portal_column
+    <set>
+        <if test="columnOrder!=0">
+            column_order = #{columnOrder}
+        </if>
+    </set>
+    where id = #{id}
+    </update>
+
+    <update id="delete">
+    update  scos_portal_column set dr=1 where id = #{id}
+    </update>
+</mapper>
