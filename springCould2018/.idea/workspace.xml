@@ -2,79 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9e62891-6906-4c80-a2ad-b6cb86209a62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_CR1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_23_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-api/src/main/java/com/springcloud/entities/Column.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/src/main/java/com/springcloud/Swagger2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/src/main/java/com/springcloud/config/mutipartFileParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/src/main/java/com/springcloud/controller/ColumnController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/src/main/java/com/springcloud/controller/FileUploadAndDownLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/src/main/java/com/springcloud/dao/ColumnDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/src/main/java/com/springcloud/service/ColumnService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/src/main/java/com/springcloud/service/impl/ColumnServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/src/main/resources/mybaits/mapper/ColumnMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/microservicecloud-provider-8002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/DeptProvider8002_App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/Swagger2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/controller/ColumnController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/dao/ColumnDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/service/ColumnService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/service/impl/ColumnServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/java/com/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/resources/mybaits/mapper/ColumnMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/microservicecloud-provider-8003.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/DeptProvider8003_App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/Swagger2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/config/mutipartFileParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/controller/ColumnController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/controller/FileUploadAndDownLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/dao/ColumnDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/service/ColumnService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/service/impl/ColumnServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/java/com/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/resources/mybaits/mapper/ColumnMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/resources/mybaits/mapper/DeprMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8003/src/main/resources/mybaits/mybatis.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-api/target/classes/META-INF/microservicecloud-api.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/microservicecloud-provider-8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/microservicecloud-provider-8001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/target/classes/com/springcloud/DeptProvider8001_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/target/classes/com/springcloud/controller/DeptController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/target/classes/com/springcloud/dao/DeptDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/target/classes/com/springcloud/service/DeptService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/target/classes/com/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/target/classes/mybaits/mapper/DeprMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/resources/mybaits/mapper/DeprMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8001/target/classes/mybaits/mybatis.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-provider-8002/src/main/resources/mybaits/mybatis.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicescloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicescloud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-consumer-dept-80/src/main/java/com/springcloud/cfgbeans/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-consumer-dept-80/src/main/java/com/springcloud/cfgbeans/ConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicescloud/microservicecloud-consumer-dept-80/target/classes/com/springcloud/cfgbeans/ConfigBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicescloud/microservicecloud-consumer-dept-80/target/classes/com/springcloud/cfgbeans/ConfigBean.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,9 +74,6 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\myself_frame\springCould2018\microservicescloud\microservicecloud-provider-8001\src\main\resources\mybaits" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\myself_frame\study\springCould2018\microservicescloud\microservicecloud-provider-8003\src\main\resources" />
       <recent name="D:\myself_frame\study\springCould2018\microservicescloud\microservicecloud-provider-8002\src\main\resources" />
@@ -154,8 +81,11 @@
       <recent name="D:\myself_frame\study\springCould2018\microservicescloud\microservicecloud-provider-8002\src\main\java" />
       <recent name="D:\myself_frame\springCould2018\microservicescloud\microservicescloud-eureka-7003\src\main\resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myself_frame\springCould2018\microservicescloud\microservicecloud-provider-8001\src\main\resources\mybaits" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeptProvider8001_App">
+  <component name="RunManager" selected="Spring Boot.DeptConsumer80_App">
     <configuration name="DeptConsumer80_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="microservicecloud-consumer-dept-80" />
       <extension name="coverage">
@@ -178,9 +108,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloud.DeptProvider8001_App" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -225,19 +152,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.DeptProvider8001_App" />
       <item itemvalue="Spring Boot.EurekaServer7003_App" />
+      <item itemvalue="Spring Boot.DeptProvider8001_App" />
       <item itemvalue="Spring Boot.DeptProvider8002_App" />
       <item itemvalue="Spring Boot.DeptProvider8003_App" />
       <item itemvalue="Spring Boot.DeptConsumer80_App" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.DeptConsumer80_App" />
         <item itemvalue="Spring Boot.DeptProvider8003_App" />
         <item itemvalue="Spring Boot.DeptProvider8002_App" />
         <item itemvalue="Spring Boot.DeptProvider8001_App" />
         <item itemvalue="Spring Boot.EurekaServer7003_App" />
-        <item itemvalue="Spring Boot.DeptConsumer80_App" />
       </list>
     </recent_temporary>
   </component>
@@ -279,12 +206,32 @@
       <workItem from="1591878392340" duration="10157000" />
       <workItem from="1591926366210" duration="2430000" />
       <workItem from="1592033741427" duration="5713000" />
-      <workItem from="1592229486326" duration="5367000" />
+      <workItem from="1592229486326" duration="5544000" />
+      <workItem from="1592403194930" duration="2844000" />
     </task>
+    <task id="LOCAL-00001" summary="ribbon轮询，负载均衡">
+      <created>1592234975958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592234975958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ribbon轮询，负载均衡">
+      <created>1592234992019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592234992019</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ribbon轮询，负载均衡" />
+    <option name="LAST_COMMIT_MESSAGE" value="ribbon轮询，负载均衡" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1024" y="181" key="#Inspections" timestamp="1591105687994">
@@ -299,10 +246,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="925" y="181" key="#Updates/0.0.1920.1040@0.0.1920.1040" timestamp="1591537118529" />
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591886718156">
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592405710287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591886718156" />
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592405710287" />
     <state x="1237" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1591797990013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -311,10 +258,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1175" y="379" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1591538364906" />
-    <state x="303" y="117" key="CommitChangelistDialog2" timestamp="1592234971423">
+    <state x="303" y="117" key="CommitChangelistDialog2" timestamp="1592234989540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="303" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592234971423" />
+    <state x="303" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592234989540" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1592234904798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -323,70 +270,78 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1203" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591862388465" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1592234843543">
+    <state width="965" height="454" key="GridCell.Tab.0.bottom" timestamp="1592406483487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592234843543" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1592234843543">
+    <state width="965" height="454" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483487" />
+    <state width="965" height="454" key="GridCell.Tab.0.center" timestamp="1592406483487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592234843543" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1592234843543">
+    <state width="965" height="454" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483487" />
+    <state width="965" height="454" key="GridCell.Tab.0.left" timestamp="1592406483487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592234843543" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1592234843543">
+    <state width="965" height="454" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483487" />
+    <state width="965" height="454" key="GridCell.Tab.0.right" timestamp="1592406483487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592234843543" />
-    <state width="1877" height="278" key="GridCell.Tab.1.bottom" timestamp="1592234843543">
+    <state width="965" height="454" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483487" />
+    <state width="965" height="454" key="GridCell.Tab.1.bottom" timestamp="1592406483330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592234843543" />
-    <state width="1877" height="278" key="GridCell.Tab.1.center" timestamp="1592234843543">
+    <state width="965" height="454" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483330" />
+    <state width="965" height="454" key="GridCell.Tab.1.center" timestamp="1592406483329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592234843543" />
-    <state width="1877" height="278" key="GridCell.Tab.1.left" timestamp="1592234843543">
+    <state width="965" height="454" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483329" />
+    <state width="965" height="454" key="GridCell.Tab.1.left" timestamp="1592406483329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592234843543" />
-    <state width="1877" height="278" key="GridCell.Tab.1.right" timestamp="1592234843543">
+    <state width="965" height="454" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483329" />
+    <state width="965" height="454" key="GridCell.Tab.1.right" timestamp="1592406483329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592234843543" />
-    <state width="1877" height="454" key="GridCell.Tab.2.bottom" timestamp="1592233071684">
+    <state width="965" height="454" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483329" />
+    <state width="965" height="454" key="GridCell.Tab.2.bottom" timestamp="1592406483330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="454" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592233071684" />
-    <state width="1877" height="454" key="GridCell.Tab.2.center" timestamp="1592233071684">
+    <state width="965" height="454" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483330" />
+    <state width="965" height="454" key="GridCell.Tab.2.center" timestamp="1592406483330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="454" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592233071684" />
-    <state width="1877" height="454" key="GridCell.Tab.2.left" timestamp="1592233071684">
+    <state width="965" height="454" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483330" />
+    <state width="965" height="454" key="GridCell.Tab.2.left" timestamp="1592406483330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="454" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592233071684" />
-    <state width="1877" height="454" key="GridCell.Tab.2.right" timestamp="1592233071684">
+    <state width="965" height="454" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483330" />
+    <state width="965" height="454" key="GridCell.Tab.2.right" timestamp="1592406483330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="454" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592233071684" />
+    <state width="965" height="454" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592406483330" />
     <state x="586" y="92" key="SettingsEditor" timestamp="1591887197974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="92" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591887197974" />
-    <state x="844" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1592229488265">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1592234998810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="844" y="381" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592229488265" />
-    <state x="754" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592234851818">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592234998810" />
+    <state x="844" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1592480433733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="754" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592234851818" />
+    <state x="844" y="381" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592480433733" />
+    <state x="754" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592480450509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592480450509" />
     <state x="669" y="101" width="1251" height="870" key="new project wizard" timestamp="1592231301578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="101" width="1251" height="870" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592231301578" />
+    <state x="1193" y="226" key="run.anything.popup" timestamp="1592405686117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1193" y="226" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592405686117" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
